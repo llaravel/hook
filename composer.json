@@ -1,5 +1,5 @@
 {
-    "name": "llarvel/hook",
+    "name": "llaravel/hook",
     "description": "你可以动态配置env环境变量、config参数,拦截http请求,修改响应数据....你可以根据自己的业务代码来实现这些功能!",
 	"keywords": ["laravel", "hook","动态配置", "拦截"],
     "license": "MIT",
