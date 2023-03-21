@@ -14,12 +14,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Llarvel\\Hook\\": "src/"
+            "Llaravel\\Hook\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Llarvel\\Hook\\": "src/"
+            "Llaravel\\Hook\\": "src/"
         }
     }
 }
